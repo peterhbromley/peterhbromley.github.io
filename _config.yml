@@ -24,7 +24,7 @@ email: peterhbromley@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
     Software engineer, applied mathematician, reinforcement learning enthusiast.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "peterhbromley" # the base hostname & protocol for your site, e.g. http://example.com
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: peterhbromley 
 
 # Build settings
