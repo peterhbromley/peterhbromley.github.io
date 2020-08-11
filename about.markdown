@@ -4,15 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I am a Python engineer and applied mathematician with special interests in research engineering, reinforcement learning and statistical modeling.
+At Altius Institute for Biomedical Sciences in Seattle, I apply state-of-the-art deep learning methods to synthetic biology and generate rich visualizations of genomic data.
+Previously, I spent a year developing an algorithmic trading research platform at Quantopian in Boston.
+In my free time I enjoy teaching myself the fundamentals of various subfields under the artificial intelligence umbrella. Recently, I've been working through online courses and textbooks on reinforcement learning, bayesian statistics and applied probability.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Outside of computer science and mathematics I love soccer, basketball, hiking, skiing, fantasy football and guitar, and I (attempt to) solve the New York Times crossword every day!
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
